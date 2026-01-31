@@ -2,7 +2,7 @@
 Welcome my name is Achire John Paul IT Professional and Cybersecurity Specialist
 ## 🔐 Cybersecurity SOC Portfolio
 My main hands-on SOC and cybersecurity labs are here:
-👉 https://github.com/txfalkon/cybersecurity-soc-portfolio
+👉 https://github.com/achirejohnpaul/cybersecurity-soc-portfolio
 
 <!--
 **achirejohnpaul/achirejohnpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
